@@ -2,22 +2,11 @@ section.resume-section {
   border-bottom: 1px solid $gray-300;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  .resume-item {
-    .resume-content {}
-    .resume-date {
+  .boxed-item {
+    .boxed-content {}
+    .boxed-date {
       min-width: none;
     }
-  }
-  .boxed-row {
-    .boxed-item {
-      max-width: 20rem;
-      border: 5px solid $gray-300;
-      border-radius: 10px;
-      padding: 15px;
-    }
-  }
-  .fa-pad-R {
-    padding-right: 10px;
   }
 }
 @media (min-width: 768px) {
