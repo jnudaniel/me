@@ -21,6 +21,11 @@ section.resume-section {
   .fa-pad-R {
     padding-right: 10px;
   }
+  .color-hover-container:hover {
+    .color-hover-content {
+      color: #8c1516;
+    }
+  }
 }
 @media (min-width: 768px) {
   section.resume-section {
