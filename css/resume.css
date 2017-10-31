@@ -89,8 +89,9 @@ section.resume-section {
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
     min-width: none; }
-  section.resume-section .boxed-row .boxed-item {
-    max-width: 20rem;
+  section.resume-section .img-row .img {
+    width: 10rem; }
+  section.resume-section .img-row .img-item {
     border: 5px solid #dee2e6;
     border-radius: 10px;
     padding: 15px; }

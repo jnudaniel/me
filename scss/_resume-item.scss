@@ -8,9 +8,11 @@ section.resume-section {
       min-width: none;
     }
   }
-  .boxed-row {
-    .boxed-item {
-      max-width: 20rem;
+  .img-row {
+    .img {
+      width: 10rem;
+    }
+    .img-item {
       border: 5px solid $gray-300;
       border-radius: 10px;
       padding: 15px;
