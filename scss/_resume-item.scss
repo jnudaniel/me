@@ -18,13 +18,32 @@ section.resume-section {
       padding: 15px;
     }
   }
+  .img-fluid {
+    margin: 30px;
+  }
+  .image_off, #imagebox:hover .image_on{
+     display:none
+  }
+  .image_on, #imagebox:hover .image_off{
+     display:block
+  }
   .fa-pad-R {
     padding-right: 10px;
+  }
+  .fa-pad-L {
+    padding-left: 5px;
   }
   .color-hover-container:hover {
     .color-hover-content {
       color: #8c1516;
     }
+  }
+  .resume-date {
+    width: 50%;
+  }
+  .btn-drk {
+    background-color: #8c1516;
+    border-color: #8c1516;
   }
 }
 @media (min-width: 768px) {

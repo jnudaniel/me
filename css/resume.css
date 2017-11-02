@@ -95,10 +95,23 @@ section.resume-section {
     border: 5px solid #dee2e6;
     border-radius: 10px;
     padding: 15px; }
+  section.resume-section .img-fluid {
+    margin: 30px; }
+  section.resume-section .image_off, section.resume-section #imagebox:hover .image_on {
+    display: none; }
+  section.resume-section .image_on, section.resume-section #imagebox:hover .image_off {
+    display: block; }
   section.resume-section .fa-pad-R {
     padding-right: 10px; }
+  section.resume-section .fa-pad-L {
+    padding-left: 5px; }
   section.resume-section .color-hover-container:hover .color-hover-content {
     color: #8c1516; }
+  section.resume-section .resume-date {
+    width: 50%; }
+  section.resume-section .btn-drk {
+    background-color: #8c1516;
+    border-color: #8c1516; }
 
 @media (min-width: 768px) {
   section.resume-section {
