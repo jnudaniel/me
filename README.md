@@ -1,4 +1,6 @@
-# [Resume](https://startbootstrap.com/template-overviews/resume/)
+# Resume
+
+Personal resume/portfolio site currently hosted on Stanford servers.
 
 ## Status
 
