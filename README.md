@@ -1,6 +1,6 @@
 # Resume
 
-Personal resume/portfolio site currently hosted on Stanford servers.
+Personal resume/portfolio site currently hosted on GitHub, previously on Stanford servers.
 
 ## Status
 
